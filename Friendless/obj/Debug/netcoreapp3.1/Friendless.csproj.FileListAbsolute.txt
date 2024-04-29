@@ -1,0 +1,13 @@
+C:\Users\AHoat\OneDrive\Desktop\Friendless\bin\Debug\netcoreapp3.1\Friendless.exe
+C:\Users\AHoat\OneDrive\Desktop\Friendless\bin\Debug\netcoreapp3.1\Friendless.deps.json
+C:\Users\AHoat\OneDrive\Desktop\Friendless\bin\Debug\netcoreapp3.1\Friendless.runtimeconfig.json
+C:\Users\AHoat\OneDrive\Desktop\Friendless\bin\Debug\netcoreapp3.1\Friendless.runtimeconfig.dev.json
+C:\Users\AHoat\OneDrive\Desktop\Friendless\bin\Debug\netcoreapp3.1\Friendless.dll
+C:\Users\AHoat\OneDrive\Desktop\Friendless\bin\Debug\netcoreapp3.1\Friendless.pdb
+C:\Users\AHoat\OneDrive\Desktop\Friendless\obj\Debug\netcoreapp3.1\Friendless.csprojAssemblyReference.cache
+C:\Users\AHoat\OneDrive\Desktop\Friendless\obj\Debug\netcoreapp3.1\Friendless.AssemblyInfoInputs.cache
+C:\Users\AHoat\OneDrive\Desktop\Friendless\obj\Debug\netcoreapp3.1\Friendless.AssemblyInfo.cs
+C:\Users\AHoat\OneDrive\Desktop\Friendless\obj\Debug\netcoreapp3.1\Friendless.csproj.CoreCompileInputs.cache
+C:\Users\AHoat\OneDrive\Desktop\Friendless\obj\Debug\netcoreapp3.1\Friendless.dll
+C:\Users\AHoat\OneDrive\Desktop\Friendless\obj\Debug\netcoreapp3.1\Friendless.pdb
+C:\Users\AHoat\OneDrive\Desktop\Friendless\obj\Debug\netcoreapp3.1\Friendless.genruntimeconfig.cache
